@@ -4,7 +4,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,mongodb,expressjs,react,nodejs,vercel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,expressjs,react,nodejs,vercel,git,figma)](https://skillicons.dev)
 
 #### Others
 
