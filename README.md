@@ -10,6 +10,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,autocad,sketchup,illustrator)](https://skillicons.dev)
 
+#### Learning
+
+[![My Skills](https://skillicons.dev/icons?i=vue,mysql,py,django)](https://skillicons.dev)
 
 <!--
 **22AGabriel/22AGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
