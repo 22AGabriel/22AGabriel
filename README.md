@@ -4,15 +4,23 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,expressjs,react,nodejs,vercel,git,figma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,react,nodejs,expressjs,vercel,git,figma&perline=6)](https://skillicons.dev)
 
 #### Others
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,autocad,sketchup,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,autocad,illustrator)](https://skillicons.dev)
 
 #### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=vue,mysql,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,cpp)](https://skillicons.dev)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=22agabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+
 
 <!--
 **22AGabriel/22AGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
