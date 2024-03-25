@@ -5,7 +5,7 @@
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,react,nodejs,expressjs,vercel,git,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,react,nodejs,expressjs,vercel,git,figma)](https://skillicons.dev)
 
 #### Others
 
@@ -13,7 +13,7 @@
 
 #### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=next,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwind)](https://skillicons.dev)
 
 
 <div align="center">
