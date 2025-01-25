@@ -1,15 +1,15 @@
 Hello! Welcome to my GitHub profile 👋🏻 
 Here you'll get to see who I am, what I do, and how you can get in touch with me. Please feel free to explore my profile!
 
-## Full Stack Developer / QA tester
+## QA Tester
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,vite,react,nodejs,expressjs,vercel,git,bootstrap,vscode,figma)](https://skillicons.dev)
-
-#### Learning
-
-[![My Skills](https://skillicons.dev/icons?i=ts,cypress,tailwind)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cypress,html,css,mongodb,vite,react,nodejs,expressjs,vercel,git,bootstrap,vscode,figma&perline=7" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=22agabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
