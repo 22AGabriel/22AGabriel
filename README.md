@@ -23,7 +23,7 @@ I enjoy breaking applications (on purpose 😄) to make them better, more reliab
 
 ### 💼 Experience
 
-QA Tester – RollingCode Studio (Dec 2023 – 2025)
+QA Tester – RollingCode Studio (Dec 2023 – March 2026)
 
 - Performed manual and exploratory testing on multiple projects
 - Created test cases and reported bugs with clear documentation and evidence
