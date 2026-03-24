@@ -1,53 +1,53 @@
-Hello! Welcome to my GitHub profile 👋🏻 
-Here you'll get to see who I am, what I do, and how you can get in touch with me. Please feel free to explore my profile!
+# Hello! I'm Gabriel 👋🏻 
 
-## QA Tester
+QA Tester focused on delivering high-quality software through manual and automated testing.
+I enjoy breaking applications (on purpose 😄) to make them better, more reliable, and user-friendly.
+#
 
-### Skills
+### 🧪 About Me 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cypress,html,css,mongodb,vite,react,nodejs,expressjs,vercel,git,bootstrap,vscode,figma&perline=7" />
-  </a>
-</p>
+- QA Tester with experience in manual, API, and automation testing
+- Experience working on real projects, managing testing processes and reporting bugs
+- Background in FullStack (MERN)
+- Currently improving my skills towards QA Automation Engineer
+#
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=22agabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+### 🚀 QA Skills
 
-## Experience 👨🏼‍💻
+- Manual & Exploratory Testing
+- Test Case Design & Bug Reporting
+- API Testing (REST)
+- UI Testing
+- Automation with Cypress (basic)
+#
 
-### QA tester - RollingCode Studio 
+### 💼 Experience
 
-**Duration:** December 2023 - Present
+QA Tester – RollingCode Studio (Dec 2023 – 2025)
 
-Managing the QA process, performing manual testing, and ensuring the reliability of our applications through detailed test case creation.
+- Performed manual and exploratory testing on multiple projects
+- Created test cases and reported bugs with clear documentation and evidence
 
-### Tutor - RollingCode School
+Tutor – RollingCode School (Jun 2022 – Present)
 
-**Duration:** June 2022 - Present
+- Supporting students in MERN stack and real projects
+#
 
-Supporting the lead mentor by tutoring multiple groups, providing guidance on the MERN stack, and occasionally leading classes to help students build real-world projects.
+### 📌 Featured Project
 
+🔹 Cypress Automation (API + UI + CI)
 
-## Get in Touch 📬
+End-to-end testing project including API and UI tests, custom commands, and CI integration. 
+
+👉 [Repo here](https://github.com/22AGabriel/automation-cypress-api-ui)
+#
+
+### 📬 Get in Touch 
 
 If you have any questions, want to collaborate on exciting projects, or just want to say hi, feel free to reach out to me:
 
-- Email: [gabrielazubel22@gmail.com](mailto:gabrielazubel22@gmail.com)
-- LinkedIn: [Azubel Gabriel](https://www.linkedin.com/in/gabriel-azubel)
+- 📧 Email: [gabrielazubel22@gmail.com](mailto:gabrielazubel22@gmail.com)
+- 💼 LinkedIn: [Azubel Gabriel](https://www.linkedin.com/in/gabriel-azubel)
+#
 
-<!--
-**22AGabriel/22AGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Open to QA opportunities & freelance work
